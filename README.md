@@ -2,9 +2,8 @@
 <h3 align="center">Aspiring data scientist interested in data-driven finance, with foundational AI/ML knowledge and capable web development skills.</h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/naveen-manoj-56549925a/" target="_blank"> <img height="30" src="https://img.shields.io/badge/LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white"   target="_blank"></a>
-  <a href = "https://mail.google.com/mail/?view=cm&fs=1&to=manojnaveen085@gmail.com"><img height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://leetcode.com/u/manojnaveen085/" target="_blank"><img height="30" src="https://img.shields.io/badge/-LeetCode-%23333?style=for-the-badge&logo=leetcode&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/sooraj-naduvil-purakkal-bb0366257/" target="_blank"> <img height="30" src="https://img.shields.io/badge/LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white"   target="_blank"></a>
+  <a href = "https://mail.google.com/mail/?view=cm&fs=1&to=sooraj.np12@gmail.com"><img height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 ## Technologies
