@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sooraj N P</h1>
-<h3 align="center">Aspiring data scientist interested in data-driven finance, with foundational AI/ML knowledge and capable web development skills.</h3>
+<h3 align="center">Web developer and machine learning enthusiast passionate about building intelligent, data-powered applications. Dedicated to exploring the intersection of technology and innovation.</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sooraj-naduvil-purakkal-bb0366257/" target="_blank"> <img height="30" src="https://img.shields.io/badge/LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white"   target="_blank"></a>
