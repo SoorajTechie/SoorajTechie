@@ -13,6 +13,6 @@
 ## Stats
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=neevan0842&show_icons=true&theme=gotham">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neevan0842&layout=donut&theme=gotham">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=SoorajTechie&show_icons=true&theme=gotham">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoorajTechie&layout=donut&theme=gotham">
 </div>
