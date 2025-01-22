@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Naveen Manoj</h1>
+<h1 align="center">Hi 👋, I'm Sooraj N P</h1>
 <h3 align="center">Aspiring data scientist interested in data-driven finance, with foundational AI/ML knowledge and capable web development skills.</h3>
 
 <div align="center">
